@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A Learning Developer from India</h3>
-<img> align="right" alt="Coding" width="400" src="https://images.app.goo.gl/RSjZ5L7nudfkx7Uo8" </img>
+<img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47lfy8jmfm1v1x1j24hwndovb60z3ib2lobo4ipls8&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viper-69&label=Profile%20views&color=0e75b6&style=flat" alt="viper-69" /> </p>
 
