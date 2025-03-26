@@ -27,6 +27,12 @@
   <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/439231/mongodb.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/448221/docker.svg" alt="Docker" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/473761/powerbi.svg" alt="PowerBI" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/373590/excel2.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/448274/azure.svg" alt="Azure" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS" width="50" height="50"/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viper-69&show_icons=true&locale=en" alt="viper-69" /></p>
