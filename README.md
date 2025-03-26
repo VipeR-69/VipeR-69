@@ -1,11 +1,11 @@
 <h1 align="center">Hi👋, I'm Ghanshyam Gautam</h1>
 <h3 align="center">A Learning Developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viper-69&label=Profile%20views&color=0e75b6&style=flat" alt="viper-69" /> </p>
+
 <center> <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47lfy8jmfm1v1x1j24hwndovb60z3ib2lobo4ipls8&rid=giphy.gif&ct=g"> </center>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viper-69" alt="viper-69" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viper-69&label=Profile%20views&color=0e75b6&style=flat" alt="viper-69" /> </p>
 
 - 📫 Reach me **shubhamgt69@gmail.com**
 
