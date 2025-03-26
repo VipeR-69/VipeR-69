@@ -25,9 +25,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="node" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png" alt="Django" width="40" height="40"/>
-  <img src="https://www.citypng.com/public/uploads/preview/hd-java-programming-logo-png-701751694771848sm650yaqjt.png" alt="Java" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/439231/mongodb.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viper-69&show_icons=true&locale=en" alt="viper-69" /></p>
